@@ -1,3 +1,5 @@
+# Beginner roadmap.sh backend project - https://roadmap.sh/projects/task-tracker
+
 # 🧰 Task Tracker CLI (.NET Console App)
 
 A simple, beginner-friendly Task Tracker Command Line Tool built in C# with .NET. You can **add**, **update**, **delete**, **list**, and **change task statuses** (todo, in-progress, done) — all from your terminal!
@@ -16,7 +18,7 @@ A simple, beginner-friendly Task Tracker Command Line Tool built in C# with .NET
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-tracker-cli.git
+[git clone https://github.com/your-username/task-tracker-cli.git](https://github.com/Verito21/TaskTracker.git)
 cd task-tracker-cli
 ```
 
